@@ -32,6 +32,7 @@ nav div {
     width: 100%;
     min-height: 20vh;
     font-size: 1.3rem;
+    font-family: inherit;
 }
 
 .main {
@@ -47,13 +48,13 @@ nav div {
     border: none;
     padding: 1rem 2rem;
     font-size: 1.2rem;
+    font-family: inherit;
 
 }
 
 .outputtext {
     font-size: large;
     margin-bottom: 1rem;
-
 }
 
 #output {
@@ -63,6 +64,8 @@ nav div {
     overflow: scroll;
     border: 1px solid var(--black);
     margin-bottom: 1rem;
+    font-size: 1.3rem;
+    font-family: inherit;
 }
 
 footer {
@@ -72,8 +75,7 @@ footer {
     bottom: 0;
     position: relative;
     width: 100%;
-    padding: 1rem;
-    
+    padding: 1rem;    
 }
 
 footer div {
