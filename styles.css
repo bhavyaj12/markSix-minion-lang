@@ -45,10 +45,10 @@ nav div {
     margin: auto;
     background-color: var(--primary);
     margin: 2rem 0rem;
-    border: none;
     padding: 1rem 2rem;
     font-size: 1.2rem;
     font-family: inherit;
+    border-radius: 1rem;
 
 }
 
